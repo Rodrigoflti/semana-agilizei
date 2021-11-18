@@ -1,0 +1,12 @@
+{
+
+"$schema": "https://on.cypress.io/cypress.schema.json",
+
+"baseUrl": "https://twitter-clone-example.herokuapp.com/",
+    "env": {
+        "apiUrl": "https://twitter-clone-example-backend.herokuapp.com/"
+}
+
+
+
+}
